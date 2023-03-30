@@ -1,0 +1,18 @@
+{
+  "name": "nodedapp",
+  "version": "1.0.0",
+  "description": "Sample Node JS based  DAPP including Smart Contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mukesh Bhatla",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.4"
+  },
+  "dependencies": {
+    "ethers": "^5.7.2"
+  }
+}
